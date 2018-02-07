@@ -24,19 +24,21 @@ body {
   background: rgba(234,211,255,.85);
 }
 
-h1, h2 {
-  font-family: 'Brush Script MT', serif;
-  color: #d2c0e2;
-}
+
 
 h1 {
+  font-family: 'Brush Script MT', serif;
   font-size: 3.5em;
   margin-bottom: 0;
+  color: #dd61f9;
 }
 
 h2 {
+  font-family: 'Brush Script MT', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: #dd61f9;
+
 }
 
 h3 {
@@ -53,7 +55,7 @@ img {
 }
 
 p {
-  font-family: 'Helvetica', serif;
+  font-family: 'Arial', sans-serif;
   font-size: 1em;
   color: #3a0c66;
 }
